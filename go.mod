@@ -1,4 +1,4 @@
-module gitlab.com/gocor/corctx
+module github.com/gocor/corctx
 
 go 1.16
 
